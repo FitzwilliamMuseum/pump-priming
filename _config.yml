@@ -19,7 +19,7 @@ description: >- # This site will provide training material for the Fitzwilliam M
     workshops on photogrammetry which are funded via the Industry Pump Priming Fund from
     Cambridge University.
 baseurl: "/pump-priming" # the subpath of your site, e.g. /blog
-url: "https://fitzwilliammuseum.github.io/"
+url: "https://fitzwilliammuseum.github.io"
 twitter_username: dejpett
 github_username:  portableant
 logo: https://avatars3.githubusercontent.com/u/38219404?s=200&v=4
