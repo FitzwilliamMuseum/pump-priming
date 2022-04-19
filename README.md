@@ -1,5 +1,7 @@
 # Fitzwilliam Museum Photogrammetry tutorial
 
+[![DOI](https://zenodo.org/badge/159564382.svg)](https://zenodo.org/badge/latestdoi/159564382)
+
 This repository contains a Jekyll powered instance of an HTML version of a tutorial on how to create 3D models.
 
 ## To run locally
