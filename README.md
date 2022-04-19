@@ -14,7 +14,6 @@ This repository contains a Jekyll powered instance of an HTML version of a tutor
 ## Credits
 
 Website by [@portableant](https://github.com/portableant)
-Front end - Bootstrap 4.x and PagePiling.js
 
 ## License
 
